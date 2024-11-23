@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nhom11-VongQuayMayMan", "Nhom11-VongQuayMayMan", "{B06D42BF-FBD3-4BFD-BDA1-A478E0B34446}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DrawLuckyWheel", "DrawLuckyWheel", "{A196C2A2-0425-432F-9B5B-FB370BA91C24}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrawLuckyWheel", "Nhom11-VongQuayMayMan\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel.csproj", "{804043C9-CAD3-4395-97FD-B1226072201F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804043C9-CAD3-4395-97FD-B1226072201F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804043C9-CAD3-4395-97FD-B1226072201F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804043C9-CAD3-4395-97FD-B1226072201F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804043C9-CAD3-4395-97FD-B1226072201F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A196C2A2-0425-432F-9B5B-FB370BA91C24} = {B06D42BF-FBD3-4BFD-BDA1-A478E0B34446}
+		{804043C9-CAD3-4395-97FD-B1226072201F} = {A196C2A2-0425-432F-9B5B-FB370BA91C24}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46EE63C5-F51B-44AE-8B91-19E3A8F73DEE}
+	EndGlobalSection
+EndGlobal

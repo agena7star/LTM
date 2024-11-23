@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nh\u00F3m 11 - V\u00F2ng_Quay_May_M\u1EAFn\\DrawLuckyWheel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Nh\u00F3m 11 - V\u00F2ng_Quay_May_M\u1EAFn\\DrawLuckyWheel\\DrawLuckyWheel\\Database1.mdf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DrawLuckyWheel\\Database1.mdf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Nh\u00F3m 11 - V\u00F2ng_Quay_May_M\u1EAFn\\DrawLuckyWheel\\DrawLuckyWheel\\Database1_log.ldf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DrawLuckyWheel\\Database1_log.ldf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database1.mdf",
+              "DocumentMoniker": "C:\\Nh\u00F3m 11 - V\u00F2ng_Quay_May_M\u1EAFn\\DrawLuckyWheel\\DrawLuckyWheel\\Database1.mdf",
+              "RelativeDocumentMoniker": "DrawLuckyWheel\\Database1.mdf",
+              "ToolTip": "C:\\Nh\u00F3m 11 - V\u00F2ng_Quay_May_M\u1EAFn\\DrawLuckyWheel\\DrawLuckyWheel\\Database1.mdf",
+              "RelativeToolTip": "DrawLuckyWheel\\Database1.mdf",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000415|",
+              "WhenOpened": "2024-11-22T23:56:30.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database1_log.ldf",
+              "DocumentMoniker": "C:\\Nh\u00F3m 11 - V\u00F2ng_Quay_May_M\u1EAFn\\DrawLuckyWheel\\DrawLuckyWheel\\Database1_log.ldf",
+              "RelativeDocumentMoniker": "DrawLuckyWheel\\Database1_log.ldf",
+              "ToolTip": "C:\\Nh\u00F3m 11 - V\u00F2ng_Quay_May_M\u1EAFn\\DrawLuckyWheel\\DrawLuckyWheel\\Database1_log.ldf",
+              "RelativeToolTip": "DrawLuckyWheel\\Database1_log.ldf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOOSURBVDhPrVRLbxtVFP7uzPgRx6/YwYqbOA1NQtoAQUigEBCoQlGFaIVAgqoLYMEKlkgs4T\u002BwBwl1zabi0Uo8CqqECKpRBUmqRGpcO37VTv1\u002BzNx5cu7YqRJqWPUbH985Z\u002Baee873HRuPFI7jDO8eHZj4eu/iK58kE9GUaRgOVzXp8BjLN8tM/8zQGw2PR8btv9I3bvx89WvhK\u002BfXn333nTde/HBhfmpOkpijabbExDF6BZqhsJqRwoH9NBbmTsCjKGIPHHHRqcJ29nIolSsiPEj42cdvfTUeCUuJZIxF4jE4SgQiI2un0bxzHU5uE1XlFFYWErAcCVy3YNs2bIchFPDi22s/4dbft0UuF0qlWJZeOpNEdDJOXpBIkAZHR1ZRjr0AeyyKS2cep9YUXPklg61MHQYlFa2\u002Bf2GZaj0OpdvpQ6ukGWcpSOMpMF\u002BEyDOhmCUkWml0CzK\u002BK32A184\u002Bh7VnklheiNNj0TLD\u002BJjXPfsoJNOyYPbukRVhqgeweJPWKnh9F13NDzu4gpnkY5AkCZWairvFNjKFFrKlNjRO7f87oVuzbVJVHI6l0arBMXsU4tBB1ZLKE5EgvcbQ6nJU6yrukVUbfXDDogqPZ5QGAZm485AnVplolOENTiAh3YRU\u002BAK/bmyir3E8tRjH\u002Buoszq2dxNnnU/B6FRJokOgQgzkYAa3dwD4uwFh8FW/OL8Lv8\u002BPH33PY3W9CJ1EURcb5l\u002BcfEuXBEIvRc6fchQNvIIQENqAUv8RvN7eoQh2TEwHMz0Rxei6GJ2aj1JA0ikOKsKEdgU1KCw5t3zTCoaDbWnIyiKWTcSySnZqJkVDyCA7dxZ199xp4gKH2kOs/iay9TpwybO3cxV42h3wxj/1CHtl8Htu7e2g02\u002B6eQyiDQTq04yiX87iavobsfsH1LZuBhOWm5XA3MAR1Q\u002BMxwH\u002BKIrCW/BPLq0X0T9egmwzbhSl8s2Fcvn7r/ufDV1xYBm8MbyERN8wR0j\u002BoVBBL8tAn5OlharyG6XATyWATYZ8FZvI67zV3jpqpq\u002B6/gwD9cME6nQ46XRVcM6h8YSZM04ZB864bEvq6B33OoFse2P/fFOSVpROvh/ytiGF5ZVX32Rq3WafVRfOghlatiWaLO/W2bDZ6HmmnFLizmen/UKh20sP9D8EdvU8/OvfH9ASW1L5q69ZYWMSoefeZDJ170evqCMQuf7/99nbm/hURHw3gH7eYvk48QG\u002BCAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-11-22T23:56:28.475Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 156,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.exe.config
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.exe
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.pdb
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.AssemblyReference.cache
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.Properties.Resources.resources
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.GenerateResource.cache
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.CoreCompileInputs.cache
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.exe
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.pdb
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.Form1.resources
+E:\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.exe.config
+E:\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.exe
+E:\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.pdb
+E:\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.AssemblyReference.cache
+E:\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.SuggestedBindingRedirects.cache
+E:\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.Properties.Resources.resources
+E:\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.GenerateResource.cache
+E:\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.CoreCompileInputs.cache
+E:\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.exe
+E:\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.pdb
+E:\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.FormVongQuay.resources
+E:\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.FormDangNhap.resources
+D:\Năm 3-HK1 -2024-2025\B1.2\DrawLuckyWheel\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.exe.config
+D:\Năm 3-HK1 -2024-2025\B1.2\DrawLuckyWheel\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.exe
+D:\Năm 3-HK1 -2024-2025\B1.2\DrawLuckyWheel\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.pdb
+D:\Năm 3-HK1 -2024-2025\B1.2\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.AssemblyReference.cache
+D:\Năm 3-HK1 -2024-2025\B1.2\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.FormVongQuay.resources
+D:\Năm 3-HK1 -2024-2025\B1.2\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.FormDangNhap.resources
+D:\Năm 3-HK1 -2024-2025\B1.2\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.Properties.Resources.resources
+D:\Năm 3-HK1 -2024-2025\B1.2\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.GenerateResource.cache
+D:\Năm 3-HK1 -2024-2025\B1.2\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.CoreCompileInputs.cache
+D:\Năm 3-HK1 -2024-2025\B1.2\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.exe
+D:\Năm 3-HK1 -2024-2025\B1.2\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.pdb
+D:\Năm 3-HK1 -2024-2025\B1.2\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.DangKy.resources
+D:\Năm 3-HK1 -2024-2025\B1.2\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.QuenMatKhau.resources
+D:\Năm 3-HK1 -2024-2025\B1.2\DrawLuckyWheel\DrawLuckyWheel\bin\Debug\Database1.mdf
+D:\Năm 3-HK1 -2024-2025\B1.2\DrawLuckyWheel\DrawLuckyWheel\bin\Debug\_log.ldf
+D:\Năm 3-HK1 -2024-2025\B1.2\DrawLuckyWheel\DrawLuckyWheel\bin\Debug\Database1_log.ldf
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.AssemblyReference.cache
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.SuggestedBindingRedirects.cache
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.DangKy.resources
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.FormVongQuay.resources
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.FormDangNhap.resources
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.Properties.Resources.resources
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.QuenMatKhau.resources
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.GenerateResource.cache
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.CoreCompileInputs.cache
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.exe
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.pdb
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\bin\Debug\Database1.mdf
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\bin\Debug\Database1_log.ldf
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\bin\Debug\_log.ldf
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.exe.config
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.exe
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.pdb
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\Interop.MediaPlayer.dll
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\Interop.WMPLib.dll
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.ResolveComReference.cache
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\AxInterop.WMPLib.dll
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.Firework.resources
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\bin\Debug\Interop.WMPLib.dll
+E:\DrawLuckyWheel (1)\DrawLuckyWheel\bin\Debug\AxInterop.WMPLib.dll
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\bin\Debug\Database1.mdf
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\bin\Debug\Database1_log.ldf
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\bin\Debug\_log.ldf
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.exe.config
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.exe
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.pdb
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\bin\Debug\Interop.WMPLib.dll
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\bin\Debug\AxInterop.WMPLib.dll
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.AssemblyReference.cache
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\Interop.MediaPlayer.dll
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\Interop.WMPLib.dll
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\AxInterop.WMPLib.dll
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.ResolveComReference.cache
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.DangKy.resources
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.Firework.resources
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.FormVongQuay.resources
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.FormDangNhap.resources
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.Properties.Resources.resources
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.QuenMatKhau.resources
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.GenerateResource.cache
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.CoreCompileInputs.cache
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.exe
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.pdb
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.FormMeNu.resources
+D:\Năm 3-HK1 -2024-2025\HQT CSDL\DrawLuckyWheel\DrawLuckyWheel (1)\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.FormConnect.resources
+D:\DrawLuckyWheel\bin\Debug\Database1.mdf
+D:\DrawLuckyWheel\bin\Debug\Database1_log.ldf
+D:\DrawLuckyWheel\bin\Debug\_log.ldf
+D:\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.exe.config
+D:\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.exe
+D:\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.pdb
+D:\DrawLuckyWheel\bin\Debug\Interop.WMPLib.dll
+D:\DrawLuckyWheel\bin\Debug\AxInterop.WMPLib.dll
+D:\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.AssemblyReference.cache
+D:\DrawLuckyWheel\obj\Debug\Interop.MediaPlayer.dll
+D:\DrawLuckyWheel\obj\Debug\Interop.WMPLib.dll
+D:\DrawLuckyWheel\obj\Debug\AxInterop.WMPLib.dll
+D:\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.ResolveComReference.cache
+D:\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.DangKy.resources
+D:\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.Firework.resources
+D:\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.FormConnect.resources
+D:\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.FormMeNu.resources
+D:\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.FormVongQuay.resources
+D:\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.FormDangNhap.resources
+D:\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.Properties.Resources.resources
+D:\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.QuenMatKhau.resources
+D:\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.GenerateResource.cache
+D:\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.CoreCompileInputs.cache
+D:\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.exe
+D:\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.pdb
